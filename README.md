@@ -1,5 +1,4 @@
 # my-project
 mohammad khaled project
 
-
-##important note
+html and css project frontend mentor
